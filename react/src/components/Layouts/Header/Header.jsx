@@ -1,6 +1,7 @@
 import React from "react";
 
- import {NavBar} from "./components/Layouts/NavBar/NavBar";
+import { NavBar } from "../../Layouts/NavBar/NavBar";
+
  export const Header = () => {
   return (
 <>

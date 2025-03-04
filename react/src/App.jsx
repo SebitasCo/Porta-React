@@ -1,8 +1,8 @@
-import {Home} from './components/Pages/Home'
+import { Header } from "./components/Layouts/Header/Header"
 export const App = () => {
   return(
    <>
-   <Home/>
+   <Header/>
    </>
   )
 }

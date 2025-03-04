@@ -1,0 +1,27 @@
+header {
+    background-color: #282c34;
+    min-height: 60px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 24px;
+    color: white;
+    padding: 0 20px;
+}
+
+.NavBar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 24px;
+    color: white;
+    padding: 0 20px;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
